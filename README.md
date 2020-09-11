@@ -6,5 +6,5 @@ Input format: python compressVideo.py 'VideoFile' 'X'
 Where: 
   'VideoFile' is the name of your video file (with extension) and 'X' is the required percentage.
   
-Supported formats of videos: ('.mp4', '.wav', '.avi', '.mov) //more can be added
+Supported formats of video: ('.mp4', '.wav', '.avi', '.mov) //more can be added
 Range of x: (1,99)
